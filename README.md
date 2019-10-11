@@ -2,7 +2,7 @@
 You Only Look Once Version-3
 
 # Collaborator
-Prayushi Mathur, Vraj Patel
+Vraj Patel, Prayushi Mathur 
 
 This repository contains the files related to implementation of YOLO v3 model based on the paper of pjreddie darknet. The dataset used here is YOLO-coco. We have implemented this model on images and videos.
 
